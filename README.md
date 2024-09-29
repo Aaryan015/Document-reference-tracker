@@ -1,4 +1,4 @@
-### Setup: 🛠️
+## Setup: 🛠️
 1. Clone this repository:
 ```sh
 git clone https://github.com/Aaryan015/Track-reference.git
@@ -8,8 +8,8 @@ git clone https://github.com/Aaryan015/Track-reference.git
 pip install pdfplumber reportlab
 ```
 
-### How to run: 🏃
-1. Tracker app:
+## How to run: 🏃
+### 1. Tracker app:
 a. Text files:
 ```sh
 python drt.py YOUR_DOCUMENT_NAME.txt
@@ -20,7 +20,7 @@ b. PDF files:
 python drt.py YOUR_DOCUMENT_NAME.pdf
 ```
 
-2. Tests:
+### 2. Tests:
 ```sh
 python -m unittest drt.py
 ```
