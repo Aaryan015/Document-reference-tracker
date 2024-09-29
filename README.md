@@ -12,7 +12,7 @@ pip install pdfplumber reportlab
 ```
 
 ## How to run: 🏃
-NOTE: Place the text or PDF files which you want to query from, in the same project directory.
+🚨 NOTE: Place the text or PDF files which you want to query from, in the same project directory.
 
 ### 1. Tracker app:
 a. Text files:
