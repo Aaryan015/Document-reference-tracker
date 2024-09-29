@@ -10,12 +10,12 @@ pip install pdfplumber reportlab
 
 ### How to run: 🏃
 1. Tracker app:
-  a. Text files:
+a. Text files:
 ```sh
 python drt.py YOUR_DOCUMENT_NAME.txt
 ```
 
-  b. PDF files:
+b. PDF files:
 ```sh
 python drt.py YOUR_DOCUMENT_NAME.pdf
 ```
