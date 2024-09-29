@@ -1,0 +1,28 @@
+__init__ method in Python is used to initialize objects of a class. It is also called a constructor.
+
+Self represents the instance of the class. By using the “self”  we can access the attributes and methods of the class in Python
+
+In Python, lists are like this - You can change the order of items in a list, add new things, or even remove things entirely.
+
+In Python, tuples are like clay. You can't change the order or remove things from a tuple after it's created. 
+
+In Python, an exception is an error that happens while your program is running. A try block is where you put your code that might cause an error. An except block is like a backup plan that catches the error and lets you handle it gracefully.
+
+Decorators are just like function overriding. They allow functions to behave differently in nested form.
+
+list comprehension is a concise way to create new lists based on existing lists. It allows you to create a new list by applying an expression to each element of an existing list
+
+a lambda function (also called an anonymous function) is a way to define a small, self-contained block of code without needing to formally declare it with a name.  These functions are typically used for short, simple tasks and are often written inline with the code that calls them.
+Example: a = lambda x,y : x+y
+print(a(2,10))
+Output: 12
+
+slicing is dividing a list into sub-lists
+
+class Pupil:
+def __init__ (self,name,age,marks):
+self.name = name
+self.age = age
+self.marks = 950
+P1 = Pupil("JED",12,950)
+print(P1.name)
