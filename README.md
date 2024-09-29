@@ -1,5 +1,5 @@
 # Reference tracker
-[https://github.com/Aaryan015/Track-reference/blob/main/Architecture%20diagram.png?raw=true]
+![refresh page](https://github.com/Aaryan015/Track-reference/blob/main/Architecture%20diagram.png?raw=true)
 
 ## Setup: 🛠️
 1. Clone this repository:
