@@ -1,6 +1,6 @@
 ## About: 
 
-Reference tracker
+### Document reference tracker
 ![refresh page](https://github.com/Aaryan015/Track-reference/blob/main/Architecture%20diagram.png?raw=true)
 
 - A simple document reference tracker that links AI-generated answers to specific locations in a source document.
